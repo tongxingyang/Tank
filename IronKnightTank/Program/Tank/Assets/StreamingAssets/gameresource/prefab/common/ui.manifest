@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2697972903
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df8f3641ee6666d44614f812007126ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 669ef2d5d65c1ddc49b87feaa4911415
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc61ac0c27899ae4b890700862628555, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Prefab/Common/UI/AlertPanel.prefab
+- Assets/GameResource/Prefab/Common/UI/LoadingPanel.prefab
+Dependencies:
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/sprite/ui_16538cc24a4d82774d679ff22be052b9
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/font_f648079a7ff27e3dda73b347305be360

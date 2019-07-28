@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3662148576
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6483f5d4780c9c1b1f548a26a69c3f9e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6370d3f9de9eca57f523bce048404a46
+HashAppended: 1
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Shader/Effect_Shader/Fx_Smoke_Shader.shader
+- Assets/GameResource/Shader/Effect_Shader/Tank_Frame_FX_Shader_1.shader
+- Assets/GameResource/Shader/Effect_Shader/Tank_Frame_FX_Shader_2.shader
+- Assets/GameResource/Shader/CustomSprite.shader
+- Assets/GameResource/Shader/Billboard-Sprite.shader
+- Assets/GameResource/Shader/Effect_Shader/Fx_Smoke_Light_Shader.shader
+- Assets/GameResource/Shader/Effect_Shader/True Smoke.shader
+- Assets/GameResource/Shader/Sprite_Shader.shader
+- Assets/GameResource/Shader/Effect_Shader/Fx_Boom_Fire_Shader_1.shader
+Dependencies: []

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 20bb0006fe2ddc941b3bddd6e00a1321
+labels:
+- visualscripting
+- node
+- behaviourtree
+- graph
+- AI
+- behaviour
+timeCreated: 18446744011573954816
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

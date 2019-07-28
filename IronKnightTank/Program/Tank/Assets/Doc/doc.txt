@@ -1,0 +1,177 @@
+所有的逻辑如无特殊说明均是在Lua中实现
+战斗系统{
+	战斗流程：{
+		游戏流程由BattleFieldMgr管理：
+		现有的BattleStageController{
+			ArrangeController 		:布置阶段控制器
+			CombatController 		:战斗阶段控制器
+			{
+				管理ManualCommander 	:负责玩家操作逻辑管理
+				管理AICommander		:负责AI管理
+				坦克移动和攻击表现
+				战斗流程控制
+			}
+			BattleEndController 	:战斗结束阶段控制器
+		}
+
+	}
+
+	坦克系统：{
+		所有的坦克数据由TankModel维护，TankModel在内部按照阵营对Tank信息进行管理，
+		坦克对象调用TankModel的AddTank加入战场中，调用ArrangeTank加入MapModel和ShadowModel中，分别是地图数据和战争阴影数据
+		每辆坦克由两部分构成：Solider TankData ， 车长和车辆
+		坦克的主要实现在BaseFightTankData,这个对象是所有坦克对象的基类 ,分别继承了IMover（移动单位）， IViewer（战争阴影），
+		目前继承它的只有PlayerTank和NPCTank以及FakeTank（伪装坦克，技能系统中的）
+		坦克战斗的数据都存储在Solider和TankData对象中而具体的战斗逻辑在CombatFomula,包含命中计算，幸运计算，攻击计算等公式，由策划维护
+		坦克战斗表演由AttackAction完成
+		攻击表演流程{
+				坦克旋转炮塔 播放攻击表现
+				打开攻击前对话框
+				坦克旋转
+				命中计算
+				命中进度条表演
+				如果击中坦克旋转至击中位置
+				攻击计算
+				攻击进度条计算
+				攻击完成后对话框
+		}
+		坦克损坏  损坏时间在BattleConfig 定义
+		更多关于坦克的信息请参见策划文档
+	}
+
+	战争阴影：{
+		ShadowModel管理所有的视野信息，并包含每个Viewer可视范围计算，视野明暗计算等逻辑
+		地图视野信息是由ShadowNodeData对象实现的，单位视野信息由IViewer实现
+		ShadowNodeData是一个格子中的视野信息，包含是否遮挡视野，视野消耗，对哪些阵营可见等信息
+		IViewer代表战场中一个具有视野的单位，接口中提供了视野值，可以被哪些阵营看到，观察类型，位置等接口，具体参看IView接口，
+		目前继承Iviewer的只有BaseFightTank和PlaneViewer（技能系统），战场中所有具有视野的单位都要继承IViewer接口，
+		注意我们的视野是按照视野消耗的模式来计算的，具体可参见策划文档，
+		ShadowModel提供SetShadowExploreViewerCamp设置哪些阵营观察到的视野范围为可见的
+		Viewer视野范围计算由dijkstra算法计算
+		战争阴影系统设定可以参见策划文档，
+	}
+
+	坦克移动：{
+		MapModel管理所有的地块信息，地块信息是由blockData实现，并包含坦克寻路，可移动范围计算，攻击阻挡计算，固定炮塔的攻击范围计算等逻辑
+		MapModel中每一个可移动对象都是一个IMover，IMover中提供了速度，能量等接口具体可参见IMover接口，坦克就是继承了IMover接口
+		BlockData是一个具体的地块对象，包含可通过，阻挡攻击，位置等数据，位置信息由GridPos存储
+		GridPos 在lua中实现的一个模拟Vector2类并包含若干数学计算
+		坦克移动表现由TankMoveAction完成
+		寻路算法采用A*算法
+		可移动区域  dijkstra
+		在可移动区域计算时，为了减少算法消耗，MapModel将所有计算的移动消耗数据保存在BlockData中，所以可以将MapModel当做一个地图移动数据状态机来理解，调用UpdateMapMoveData(mover)更新地图的移动数据，可以方便的随时得到要到达指定地点的消耗，如果要计算下一个Mover的
+		可移动区域需要再次调用调用UpdateMapMoveData，否则还是上次计算的移动消耗数据
+	}
+
+	坦克向性系统：{
+		不同的坦克和不同的车长组合得到不同的坦克向性，坦克向性系统可以理解为车长对不同型号坦克的熟练度	具体的系统定义可参见策划案
+		坦克向性在坦克初始化的时候会设置，不同的坦克向性的系数在BattleConfig中定义
+	}
+
+	镜头移动{
+		Came上挂载CameraMover 管理不同的cameraMoveMent
+		目前实现的移动方式有 	PanCamera   		拖动移动镜头
+							EdgeMoveCamera		鼠标停靠移动镜头
+							FollowCamera		镜头跟随单位移动
+		增加镜头移动方式增加一个继承于BaseCameraMovement的脚本即可
+	}
+
+	车长技能系统 ： {
+		不同的车长表中记载不同的技能Id，程序根据技能id取出技能脚本，具体的技能需求可以参见策划案
+		车长技能都继承BaseSoliderSkill，通过重载BaseSoliderSkill中的字段，实现技能
+	}
+
+	指挥官技能系统：{
+		SkillModel
+		SKillData
+		指挥官技能系统目前均没有表现，只有逻辑，表现可以用ActionView来制作和播放
+		技能分类：
+				伤害技能 ： 采用与普通攻击不同的计算公式，具体可见DMGSkill和ComabtFomula
+				飞机侦查 ： 创建一个PlaneViewer对象 观察指定位置，注意PlaneViewer是强制的观察者，不考虑视野消耗的
+				烟雾弹	： 在技能作用范围内的地块上添加buff，buff接听回合开始事件，事件到了自动消除
+				修复坦克 ： 修复所有损坏坦克 ， 将坦克的损坏回合数强制为0
+				伪装坦克	： 从所有该阵营坦克中随机选择一个坦克根据该坦克数值创建一个FakeTank对象，具体实现可参见FakeTank
+				临时掩体 ： 创建一个临时掩体buff加入指定Block参与地形掩蔽值计算
+		技能的实现逻辑在Battle.Logic.Skill由skillPlayer播放
+		技能释放的操作逻辑在Battle.Logic.SkillController由玩家操作状态机中的EnsureSkillState管理
+    		有些时效类型的技能会产生Buff，由于目前buff较少 没有一个统一管理都是根据具体逻辑依附宿主，通过接受事件来销毁
+	}
+
+
+	关卡系统：{
+		关卡系统主要由关卡脚本和关卡运行时组成
+		关卡脚本的需求可参见策划文档
+		关卡脚本的运行时为LevelScriptRunTime，这个管理器负责驱动关卡脚本运行
+		关卡脚本: 和策划约定了统一的接口，策划负责编写关卡脚本，重载关卡脚本的方法和资源来实现不同的关卡脚本
+		LevelTool : 管理提供给策划的脚本功能
+	}
+	ai：{
+		AICommander中管理所有的单位AI
+		AI具体实现参见策划需求和脚本AIClient
+	}
+
+	玩家操控逻辑：{
+		manualCommander管理
+
+		具体逻辑使用状态机模式实现{
+				NoneState 			:空状态
+				EnsureAtkState 		：确认攻击状态
+				EnsureDirState 		：确认方向状态
+				TankMoveState 		：坦克移动表演状态
+				TankAtkState 		：坦克攻击表演状态
+				DefaultState 		：默认无选中状态
+				MineTankState 		：选择我方坦克状态
+				EnemyTankState 		：选中敌方坦克状态
+				FinishCmdState 		：完成指令状态，是指完成一个操作后的状态，如果还有剩余的能量点数会转入，MineTankState 否则转入EnsureDirState
+				EnsureSkillState 	:确认技能状态，管理所有的指挥官技能Controller，在Controller完成后发送释放技能指令给CombatController
+		}
+	}
+}
+
+资源系统{
+		C# ResourcesManager:采用AssetBundle实现的一个资源加载管理器，具体看参见实现
+		Lua resMgr ：主要对ResourcesManager封装了下，方便lua端使用
+}
+
+本地化{
+	LocalizatinMgr：语言表中的资源可去LocalizatinMgr中取出对应的字符，调用ChangeCurLang可修改当前语言
+}
+
+Json数据{
+		项目中的数据存储采用策划使用工具生成json的方式
+		JsonDataMgr提供接口获取不同的数据表并转化为lua对象，可直接按照字段名来取字段，这边json数据表的规范为每个json表都有一个DataTemplate模板数据，在jsonDataMgr增加一个针对这个模板的方法即可方便的取数据，体验极好
+}
+
+编辑器：{
+	地图编辑器
+	ActionView编辑器
+}
+
+打包系统：{
+	PackWin ：{
+		各种配置：处理重复资源勾选后会给 重复资源设置同一个的AB名，项目后期不能满足要求需要修改
+				替换内置资源：需要提供一个内置资源文件放在项目目录下
+				ABWithHash：使用Hash模式打ab包，hash码直接表明AB改动与否
+
+	}
+	需要添加功能{
+		需要在AB名中添加后缀名，否则在安卓特殊情况下会有性能问题
+	}
+	AB名设置在Packager/Config ab规则
+}
+
+
+
+预期要完成的系统：
+
+战役选择：剧情编辑器:	视频播放
+				    字幕信息
+
+		 战役选择编辑器
+		 战役编辑器
+		 成就系统
+		 资料系统
+		 新手引导
+		 存档读取系统
+		 招募系统
+		 关卡掉落系统

@@ -1,0 +1,99 @@
+ManifestFileVersion: 0
+CRC: 3563754140
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb90a5948764cae4369c672f1f5dd092
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a48ca90f72fdef5b561b9bf7e8d45f1
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 748b512176e6d0c49ad676eb0488f906, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bf11db4961e78b4ead46c82be29b331, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8bf5aa072b1f4c919e62487a5c2b0c08, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc61ac0c27899ae4b890700862628555, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02b9ebae556e4d7ebf1e4839fd5e6d49, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Prefab/Battle/UI/ArrangeTankPanel.prefab
+- Assets/GameResource/Prefab/Battle/UI/BattleSetPanel.prefab
+- Assets/GameResource/Prefab/Battle/UI/CommanderSkillView.prefab
+- Assets/GameResource/Prefab/Battle/UI/TankDirChoseView.prefab
+- Assets/GameResource/Prefab/Battle/UI/BattleEndConditionPanel.prefab
+- Assets/GameResource/Prefab/Battle/UI/TankPropertyView.prefab
+- Assets/GameResource/Prefab/Battle/UI/ConfirmAtkPanel.prefab
+- Assets/GameResource/Prefab/Battle/UI/CombatDisplayPanel.prefab
+- Assets/GameResource/Prefab/Battle/UI/SelectLevelPanel.prefab
+- Assets/GameResource/Prefab/Battle/UI/EnemyTankAttributePanel.prefab
+- Assets/GameResource/Prefab/Battle/UI/BattleMainPanel.prefab
+- Assets/GameResource/Prefab/Battle/UI/SolideResultPanel.prefab
+- Assets/GameResource/Prefab/Battle/UI/SoliderTalkPanel.prefab
+- Assets/GameResource/Prefab/Battle/UI/SolideResultView.prefab
+- Assets/GameResource/Prefab/Battle/UI/SetTankPosPanel.prefab
+- Assets/GameResource/Prefab/Battle/UI/EndPanel.prefab
+- Assets/GameResource/Prefab/Battle/UI/TankAttributePanel.prefab
+- Assets/GameResource/Prefab/Battle/UI/BattleEndPanel.prefab
+- Assets/GameResource/Prefab/Battle/UI/BattleTankIconView.prefab
+- Assets/GameResource/Prefab/Battle/UI/BattleResultPanel.prefab
+Dependencies:
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/sprite/ui_16538cc24a4d82774d679ff22be052b9
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/sprite/pxlegacy_b0a72836225a945b8b13eacf0004c903
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/sprite/icon_8e09cf7a7fd6075fed515c0f6efb65d6
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/sprite/battle_2a1e177cc44b4748213dd792e53f5b96
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/animation_8838b31d9fd0dab31e1656904dce1c90
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/font_f648079a7ff27e3dda73b347305be360

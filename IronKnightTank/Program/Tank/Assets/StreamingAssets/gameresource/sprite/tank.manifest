@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 1442669367
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 179feee486027225a69e97de177cf6d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Sprite/Tank/Tank_Pixel_2.png
+- Assets/GameResource/Sprite/Tank/Tank_Pixel_1.png
+Dependencies: []

@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3168456885
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b0a72836225a945b8b13eacf0004c903
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Sprite/PXLegacy/sign.png
+- Assets/GameResource/Sprite/PXLegacy/ranks_headportrait_frame_blue_general.png
+- Assets/GameResource/Sprite/PXLegacy/ranks_headportrait_frame_green.png
+- Assets/GameResource/Sprite/PXLegacy/ranks_headportrait_frame_violet.png
+- Assets/GameResource/Sprite/PXLegacy/arms_icon.png
+- Assets/GameResource/Sprite/PXLegacy/player_information_grade_floor.png
+- Assets/GameResource/Sprite/PXLegacy/ranks_headportrait_frame_white.png
+- Assets/GameResource/Sprite/PXLegacy/ranks_headportrait_frame_green_general.png
+- Assets/GameResource/Sprite/PXLegacy/player_information_content_floor.png
+- Assets/GameResource/Sprite/PXLegacy/player_information_grade_word_floor.png
+- Assets/GameResource/Sprite/PXLegacy/step.png
+- Assets/GameResource/Sprite/PXLegacy/teaching_prompt_arrow.png
+- Assets/GameResource/Sprite/PXLegacy/ranks_headportrait_frame_blue.png
+- Assets/GameResource/Sprite/PXLegacy/rounded_rectangle_floor.png
+- Assets/GameResource/Sprite/PXLegacy/ranks_headportrait_frame_violet_commandingskills.png
+- Assets/GameResource/Sprite/PXLegacy/operation_tip_prompt.png
+- Assets/GameResource/Sprite/PXLegacy/ranks_headportrait_frame_blue_commandingskills.png
+- Assets/GameResource/Sprite/PXLegacy/battle_rank_replace_botton.png
+- Assets/GameResource/Sprite/PXLegacy/captain_icon.png
+- Assets/GameResource/Sprite/PXLegacy/ranks_headportrait_frame_green_commandingskills.png
+- Assets/GameResource/Sprite/PXLegacy/player_information_reward_button_selected.png
+- Assets/GameResource/Sprite/PXLegacy/ranks_headportrait_grade_frame.png
+- Assets/GameResource/Sprite/PXLegacy/option_popup.png
+- Assets/GameResource/Sprite/PXLegacy/ranks_headportrait_frame_gray.png
+- Assets/GameResource/Sprite/PXLegacy/player_information_common_hero_content_floor.png
+- Assets/GameResource/Sprite/PXLegacy/ranks_headportrait_frame_violet_general.png
+Dependencies: []

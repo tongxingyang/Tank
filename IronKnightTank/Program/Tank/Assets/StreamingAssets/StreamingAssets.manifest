@@ -1,0 +1,108 @@
+ManifestFileVersion: 0
+CRC: 856091904
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gameresource/scenes/welcome_458449e3cc3b9f11fa8885d21c4a1c4b
+      Dependencies: {}
+    Info_1:
+      Name: gameresource/scenes/battle_541bfdacb428ad9561937a64c687cf46
+      Dependencies: {}
+    Info_2:
+      Name: gameresource/scenes_39b2c309e2bec1fe2a898a8344a8b70a
+      Dependencies:
+        Dependency_0: gameresource/material/effect_7e93fcc8104c9b53131de462b2e5f75c
+        Dependency_1: gameresource/prefab/battle/ui_cb90a5948764cae4369c672f1f5dd092
+        Dependency_2: gameresource/prefab/map_6bbfb91ce47286b2825bfd333668ded3
+        Dependency_3: gameresource/material/tank_e18e0480bbfd16cc4be247f93fe01d86
+        Dependency_4: gameresource/animation_8838b31d9fd0dab31e1656904dce1c90
+        Dependency_5: gameresource/prefab/tank_fdcf9357a2028098367f3d2ff84570df
+    Info_3:
+      Name: gameresource/sprite/ui_16538cc24a4d82774d679ff22be052b9
+      Dependencies: {}
+    Info_4:
+      Name: gameresource/sprite/pxlegacy_b0a72836225a945b8b13eacf0004c903
+      Dependencies: {}
+    Info_5:
+      Name: gameresource/sprite/icon_8e09cf7a7fd6075fed515c0f6efb65d6
+      Dependencies: {}
+    Info_6:
+      Name: gameresource/sprite/battle_2a1e177cc44b4748213dd792e53f5b96
+      Dependencies: {}
+    Info_7:
+      Name: gameresource/sprite/fow_93c122c7ec8fc685584fa3331e6b5767
+      Dependencies: {}
+    Info_8:
+      Name: gameresource/sprite/tank_179feee486027225a69e97de177cf6d6
+      Dependencies: {}
+    Info_9:
+      Name: gameresource/sprite/pointer_d18cfa31079ec27e3154642e00eccdb3
+      Dependencies: {}
+    Info_10:
+      Name: gameresource/sprite_e2dc0ecf876ff669c079a8b131b3769c
+      Dependencies: {}
+    Info_11:
+      Name: gameresource/shader_6483f5d4780c9c1b1f548a26a69c3f9e
+      Dependencies: {}
+    Info_12:
+      Name: gameresource/material/block_3cf838155242803b53c9984d0c07c4b0
+      Dependencies:
+        Dependency_0: gameresource/sprite/battle_2a1e177cc44b4748213dd792e53f5b96
+    Info_13:
+      Name: gameresource/prefab/battle/view_1f8beadd0d89ae5b8abf98ff6cbf2ec3
+      Dependencies:
+        Dependency_0: gameresource/sprite/pxlegacy_b0a72836225a945b8b13eacf0004c903
+        Dependency_1: gameresource/sprite/battle_2a1e177cc44b4748213dd792e53f5b96
+        Dependency_2: gameresource/sprite/fow_93c122c7ec8fc685584fa3331e6b5767
+        Dependency_3: gameresource/shader_6483f5d4780c9c1b1f548a26a69c3f9e
+        Dependency_4: gameresource/material/block_3cf838155242803b53c9984d0c07c4b0
+        Dependency_5: gameresource/animation_8838b31d9fd0dab31e1656904dce1c90
+    Info_14:
+      Name: gameresource/material/effect_7e93fcc8104c9b53131de462b2e5f75c
+      Dependencies:
+        Dependency_0: gameresource/sprite/fow_93c122c7ec8fc685584fa3331e6b5767
+        Dependency_1: gameresource/shader_6483f5d4780c9c1b1f548a26a69c3f9e
+    Info_15:
+      Name: gameresource/prefab/battle/ui_cb90a5948764cae4369c672f1f5dd092
+      Dependencies:
+        Dependency_0: gameresource/sprite/ui_16538cc24a4d82774d679ff22be052b9
+        Dependency_1: gameresource/sprite/pxlegacy_b0a72836225a945b8b13eacf0004c903
+        Dependency_2: gameresource/sprite/icon_8e09cf7a7fd6075fed515c0f6efb65d6
+        Dependency_3: gameresource/sprite/battle_2a1e177cc44b4748213dd792e53f5b96
+        Dependency_4: gameresource/animation_8838b31d9fd0dab31e1656904dce1c90
+        Dependency_5: gameresource/font_f648079a7ff27e3dda73b347305be360
+    Info_16:
+      Name: gameresource/prefab/map_6bbfb91ce47286b2825bfd333668ded3
+      Dependencies: {}
+    Info_17:
+      Name: gameresource/material/tank_e18e0480bbfd16cc4be247f93fe01d86
+      Dependencies: {}
+    Info_18:
+      Name: gameresource/material/tankwire_150d1e59f5518f3845a7dbc844efc753
+      Dependencies:
+        Dependency_0: gameresource/shader_6483f5d4780c9c1b1f548a26a69c3f9e
+    Info_19:
+      Name: gameresource/animation_8838b31d9fd0dab31e1656904dce1c90
+      Dependencies: {}
+    Info_20:
+      Name: gameresource/prefab/welcome_6100842ef9029dd6b80f48174e845d58
+      Dependencies:
+        Dependency_0: gameresource/sprite/ui_16538cc24a4d82774d679ff22be052b9
+        Dependency_1: gameresource/sprite/icon_8e09cf7a7fd6075fed515c0f6efb65d6
+        Dependency_2: gameresource/font_f648079a7ff27e3dda73b347305be360
+    Info_21:
+      Name: gameresource/prefab/tank_fdcf9357a2028098367f3d2ff84570df
+      Dependencies:
+        Dependency_0: gameresource/material/effect_7e93fcc8104c9b53131de462b2e5f75c
+        Dependency_1: gameresource/material/tank_e18e0480bbfd16cc4be247f93fe01d86
+    Info_22:
+      Name: gameresource/prefab/common/ui_df8f3641ee6666d44614f812007126ca
+      Dependencies:
+        Dependency_0: gameresource/sprite/ui_16538cc24a4d82774d679ff22be052b9
+        Dependency_1: gameresource/font_f648079a7ff27e3dda73b347305be360
+    Info_23:
+      Name: gameresource/data_bdf50cd27c41714318b598ac4f414712
+      Dependencies: {}
+    Info_24:
+      Name: gameresource/font_f648079a7ff27e3dda73b347305be360
+      Dependencies: {}

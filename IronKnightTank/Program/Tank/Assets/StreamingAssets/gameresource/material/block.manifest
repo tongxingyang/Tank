@@ -1,0 +1,78 @@
+ManifestFileVersion: 0
+CRC: 2777062187
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3cf838155242803b53c9984d0c07c4b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 1
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Material/Block/112.mat
+- Assets/GameResource/Material/Block/Snow_Ground_05.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_02.mat
+- Assets/GameResource/Material/Block/building.mat
+- Assets/GameResource/Material/Block/Desert_Highland_7.mat
+- Assets/GameResource/Material/Block/sand.mat
+- Assets/GameResource/Material/Block/Desert_Highland_3.mat
+- Assets/GameResource/Material/Block/Dersert_Ground_0.mat
+- Assets/GameResource/Material/Block/Dersert_Ground_4.mat
+- Assets/GameResource/Material/Block/Dersert_Ground_1.mat
+- Assets/GameResource/Material/Block/Dersert_Ground_6.mat
+- Assets/GameResource/Material/Block/forest.mat
+- Assets/GameResource/Material/Block/Snow_Ground_04.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_08.mat
+- Assets/GameResource/Material/Block/Snow_Ground_12.mat
+- Assets/GameResource/Material/Block/Desert_Highland_8.mat
+- Assets/GameResource/Material/Block/Dersert_Ground_7.mat
+- Assets/GameResource/Material/Block/Desert_Highland_5.mat
+- Assets/GameResource/Material/Block/Snow_Ground_03.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_09.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_10.mat
+- Assets/GameResource/Material/Block/113.mat
+- Assets/GameResource/Material/Block/Snow_Ground_10.mat
+- Assets/GameResource/Material/Block/Desert_Highland_4.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_03.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_12.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_01.mat
+- Assets/GameResource/Material/Block/Snow_Ground_06.mat
+- Assets/GameResource/Material/Block/mountainous.mat
+- Assets/GameResource/Material/Block/Desert_Highland_0.mat
+- Assets/GameResource/Material/Block/meadow.mat
+- Assets/GameResource/Material/Block/sea.mat
+- Assets/GameResource/Material/Block/bunker.mat
+- Assets/GameResource/Material/Block/Dersert_Ground_2.mat
+- Assets/GameResource/Material/Block/Desert_Highland_1.mat
+- Assets/GameResource/Material/Block/111.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_06.mat
+- Assets/GameResource/Material/Block/Snow_Ground_15.mat
+- Assets/GameResource/Material/Block/Snow_Ground_13.mat
+- Assets/GameResource/Material/Block/Dersert_Ground_5.mat
+- Assets/GameResource/Material/Block/Dersert_Ground_3.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_13.mat
+- Assets/GameResource/Material/Block/Snow_Ground_01.mat
+- Assets/GameResource/Material/Block/Snow_Ground_11.mat
+- Assets/GameResource/Material/Block/Snow_Ground_14.mat
+- Assets/GameResource/Material/Block/Snow_Ground_02.mat
+- Assets/GameResource/Material/Block/Snow_Ground_08.mat
+- Assets/GameResource/Material/Block/Snow_Ground_07.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_15.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_11.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_07.mat
+- Assets/GameResource/Material/Block/Desert_Highland_2.mat
+- Assets/GameResource/Material/Block/Snow_Ground_09.mat
+- Assets/GameResource/Material/Block/Desert_Highland_6.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_04.mat
+- Assets/GameResource/Material/Block/Dersert_Ground_8.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_05.mat
+- Assets/GameResource/Material/Block/Grassland_Boundary_14.mat
+Dependencies:
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/sprite/battle_2a1e177cc44b4748213dd792e53f5b96

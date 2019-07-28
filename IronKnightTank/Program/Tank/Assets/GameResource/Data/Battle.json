@@ -1,0 +1,11 @@
+[{"Battle_ID":1,"TankIDList":"1101~1102~1103~1105","TankUseList":"8~4~4~6","TankIDMaxCountList":"2~3~4~6","SoliderUseList":"2","SoliderMaxCount":10,"TankMaxCount":10,"MapData":"Map001","Des":""}
+,{"Battle_ID":2,"TankIDList":"1101~1102~1103~1105","TankUseList":"8~4~4~7","TankIDMaxCountList":"2~3~4~7","SoliderUseList":"3","SoliderMaxCount":11,"TankMaxCount":11,"MapData":"Map002","Des":""}
+,{"Battle_ID":3,"TankIDList":"1101~1102~1103~1105","TankUseList":"8~4~4~8","TankIDMaxCountList":"2~3~4~8","SoliderUseList":"4","SoliderMaxCount":12,"TankMaxCount":12,"MapData":"Map003","Des":""}
+,{"Battle_ID":4,"TankIDList":"1101~1102~1103~1105","TankUseList":"8~4~4~9","TankIDMaxCountList":"2~3~4~9","SoliderUseList":"5","SoliderMaxCount":13,"TankMaxCount":13,"MapData":"Map004","Des":""}
+,{"Battle_ID":5,"TankIDList":"1101~1102~1103~1105","TankUseList":"8~4~4~10","TankIDMaxCountList":"2~3~4~10","SoliderUseList":"6","SoliderMaxCount":14,"TankMaxCount":14,"MapData":"Map005","Des":""}
+,{"Battle_ID":6,"TankIDList":"1102~1103~1105~1105","TankUseList":"8~4~4~11","TankIDMaxCountList":"2~3~4~11","SoliderUseList":"7","SoliderMaxCount":15,"TankMaxCount":15,"MapData":"Map006","Des":""}
+,{"Battle_ID":7,"TankIDList":"1102~1103~1105~1201","TankUseList":"8~4~4~12","TankIDMaxCountList":"2~3~4~12","SoliderUseList":"8","SoliderMaxCount":16,"TankMaxCount":16,"MapData":"Map007","Des":""}
+,{"Battle_ID":8,"TankIDList":"1102~1103~1105~1201","TankUseList":"8~4~4~13","TankIDMaxCountList":"2~3~4~13","SoliderUseList":"9","SoliderMaxCount":17,"TankMaxCount":17,"MapData":"Map008","Des":""}
+,{"Battle_ID":9,"TankIDList":"1102~1103~1105~1201","TankUseList":"8~4~4~14","TankIDMaxCountList":"2~3~4~14","SoliderUseList":"10","SoliderMaxCount":18,"TankMaxCount":18,"MapData":"Map009","Des":""}
+,{"Battle_ID":10,"TankIDList":"1102~1103~1105~1201","TankUseList":"8~4~4~15","TankIDMaxCountList":"2~3~4~15","SoliderUseList":"11","SoliderMaxCount":19,"TankMaxCount":19,"MapData":"Map010","Des":""}
+,{"Battle_ID":11,"TankIDList":"1102~1103~1105~1201","TankUseList":"8~4~4~16","TankIDMaxCountList":"2~3~4~16","SoliderUseList":"12","SoliderMaxCount":20,"TankMaxCount":20,"MapData":"Map011","Des":""}]

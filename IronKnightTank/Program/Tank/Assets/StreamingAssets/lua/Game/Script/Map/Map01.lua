@@ -1,0 +1,1 @@
+return {Name = "", Width = 1, Height = 1, GridWidth = 1, GridHeight = 1, DefaultToward = 2, Scripts = {}, BlockDataList = {{pos = {x = 0, y = 0}, TerrianId = 1, IsBornBlock = false, Scripts = nil, NPCId = 1, NpcToward = 3}}}

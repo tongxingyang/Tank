@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3483689827
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fdcf9357a2028098367f3d2ff84570df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4378d587589b494f225a92d1be4b3032
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8182ab11dfae4723adbe83691708b778, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd963f7456213c3488ef1eb25738134c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bf11db4961e78b4ead46c82be29b331, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8bf5aa072b1f4c919e62487a5c2b0c08, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb7cdbc88b064a349f49bc98d055073b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02b9ebae556e4d7ebf1e4839fd5e6d49, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Prefab/Tank/Tank_PanzerIV_G.prefab
+- Assets/GameResource/Prefab/Tank/Tank_PanzerIV_H.prefab
+- Assets/GameResource/Prefab/Tank/Tank_MatildaII.prefab
+- Assets/GameResource/Prefab/Tank/Tank_T34_85.prefab
+- Assets/GameResource/Prefab/Tank/Tank_PanzerIII_G.prefab
+- Assets/GameResource/Prefab/Tank/Tank_PanzerIII_L.prefab
+- Assets/GameResource/Prefab/Tank/Tank_Tiger_1.prefab
+Dependencies:
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/material/effect_7e93fcc8104c9b53131de462b2e5f75c
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/material/tank_e18e0480bbfd16cc4be247f93fe01d86

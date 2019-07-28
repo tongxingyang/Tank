@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 3625120680
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1f8beadd0d89ae5b8abf98ff6cbf2ec3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5b9e77bcec7e466db63e12a67e1d0750
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 577e6f113c7372848996611c45c87a2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc61ac0c27899ae4b890700862628555, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9910815fc79af4f4b9a70e3958d0ec1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff9179c503677dd44b3cb46aa0b81b35, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Prefab/Battle/View/TankSignView.prefab
+- Assets/GameResource/Prefab/Battle/View/ShadowView.prefab
+- Assets/GameResource/Prefab/Battle/View/spriteTankDirChoseView.prefab
+- Assets/GameResource/Prefab/Battle/View/ATK_View.prefab
+- Assets/GameResource/Prefab/Battle/View/BlockView.prefab
+- Assets/GameResource/Prefab/Battle/View/TankAimCamera.prefab
+- Assets/GameResource/Prefab/Battle/View/TankView.prefab
+- Assets/GameResource/Prefab/Battle/View/FogOfWarView.prefab
+- Assets/GameResource/Prefab/Battle/View/TankTrajectoryView.prefab
+- Assets/GameResource/Prefab/Battle/View/LogicBlockView.prefab
+Dependencies:
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/sprite/pxlegacy_b0a72836225a945b8b13eacf0004c903
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/sprite/battle_2a1e177cc44b4748213dd792e53f5b96
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/sprite/fow_93c122c7ec8fc685584fa3331e6b5767
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/shader_6483f5d4780c9c1b1f548a26a69c3f9e
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/material/block_3cf838155242803b53c9984d0c07c4b0
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/animation_8838b31d9fd0dab31e1656904dce1c90

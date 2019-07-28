@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 386482867
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8e09cf7a7fd6075fed515c0f6efb65d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Sprite/Icon/Skill_Icon/InitiativeSkill_1001.png
+- Assets/GameResource/Sprite/Icon/Tank_Icon/Tiger.png
+- Assets/GameResource/Sprite/Icon/Skill_Icon/InitiativeSkill_1008.png
+- Assets/GameResource/Sprite/Icon/Unit_Head/Bolter_Head.png
+- Assets/GameResource/Sprite/Icon/Unit_Head/Lohndorff_Head.png
+- Assets/GameResource/Sprite/Icon/Skill_Icon/InitiativeSkill_1007.png
+- Assets/GameResource/Sprite/Icon/Unit_Head/Barkmann_Head.png
+- Assets/GameResource/Sprite/Icon/Unit_Head/Nenko_Head.png
+- Assets/GameResource/Sprite/Icon/Tank_Icon/Temp02.png
+- Assets/GameResource/Sprite/Icon/Skill_Icon/InitiativeSkill_1004.png
+- Assets/GameResource/Sprite/Icon/Skill_Icon/InitiativeSkill_1005.png
+- Assets/GameResource/Sprite/Icon/Unit_Head/Carius_Head.png
+- Assets/GameResource/Sprite/Icon/Unit_Head/Knispel_Head.png
+- Assets/GameResource/Sprite/Icon/Unit_Head/UnKnowUnit.png
+- Assets/GameResource/Sprite/Icon/Unit_Head/Wittmann_Head.png
+- Assets/GameResource/Sprite/Icon/Skill_Icon/InitiativeSkill_1006.png
+- Assets/GameResource/Sprite/Icon/Skill_Icon/InitiativeSkill_1003.png
+- Assets/GameResource/Sprite/Icon/Unit_Head/IntermediateCaptain_Head.png
+- Assets/GameResource/Sprite/Icon/Unit_Head/GeneralCaptain_Head.png
+- Assets/GameResource/Sprite/Icon/Tank_Icon/Temp01.png
+- Assets/GameResource/Sprite/Icon/Skill_Icon/InitiativeSkill_1002.png
+Dependencies: []

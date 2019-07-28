@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="16eac05a-9e4e-4985-950e-1c83ea74aae7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ManualCommander.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Game/Battle/Logic/Commander/ManualCommander.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-107">
+              <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BattleModel.lua" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/BattleModel.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="712">
+              <caret line="135" column="19" lean-forward="true" selection-start-line="135" selection-start-column="19" selection-end-line="135" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BattleCfg.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/Data/BattleCfg.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BattleData.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/Data/BattleData.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SaveModel.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/SaveModel.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Game/Game.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="668">
+              <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataMgr.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/DataMgr.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3380">
+              <caret line="218" column="0" lean-forward="false" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SettingModel.lua" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/SettingModel.lua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tutorial" />
+        <option value="NewLua" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RecruitConfig</find>
+      <find>SaveByID</find>
+      <find>GetSaveDataListCount</find>
+      <find>AutoSaveFunc</find>
+      <find>SaveNew</find>
+      <find>NewSave</find>
+      <find>DoSave</find>
+      <find>SetInfoInSaveData</find>
+      <find>Save</find>
+      <find>Init</find>
+      <find>LoadSave</find>
+      <find>GetHaveTankList</find>
+      <find>GetTankList</find>
+      <find>RelSave</find>
+      <find>Config</find>
+      <find>Models</find>
+      <find>ModelsList</find>
+      <find>RemoveTeam</find>
+      <find>SetNewTeam</find>
+      <find>LoginState</find>
+      <find>LoadingState</find>
+      <find>FSM</find>
+      <find>FSM&quot;)</find>
+      <find>GameConfigState</find>
+      <find>ManualCommander</find>
+      <find>Game.Lanuch</find>
+      <find>Lanuch</find>
+      <find>FightState</find>
+      <find>GetAllSaveJosnData</find>
+      <find>GetConfigBattleData</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ConfigBattleData</replace>
+      <replace>RandomSoliderData</replace>
+      <replace>SoliderListModel</replace>
+      <replace>TankListModel</replace>
+      <replace>GameSaveData</replace>
+      <replace>PlayerData</replace>
+      <replace>SettingData</replace>
+      <replace>CatchGameSave</replace>
+      <replace>ConfigFightData</replace>
+      <replace>SaveFightData</replace>
+      <replace>NewRecruitTankData</replace>
+      <replace>BattleConfig</replace>
+      <replace>FightData</replace>
+      <replace>TankDataConfig</replace>
+      <replace>BattleCfg</replace>
+      <replace>BattleData</replace>
+      <replace>FightCfg</replace>
+      <replace>RecruitTankData</replace>
+      <replace>TankDataCfg</replace>
+      <replace>RandomSolider</replace>
+      <replace>ISaveLoad</replace>
+      <replace>SaveData</replace>
+      <replace>RegistModel</replace>
+      <replace>PerimeterModels</replace>
+      <replace>GameContentModels</replace>
+      <replace>GameConfigState</replace>
+      <replace>LoadingState</replace>
+      <replace>FightState</replace>
+      <replace>GameDeployState</replace>
+      <replace>IdleState</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\CodeDev\IronKnightTank\Program\Tank\Assets\GameResource\Lua\src\Game\Data\Model</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Game/Main/Interface/ISaveLoad.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Config/SaveConfig.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Model/Data/GameSaveData.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Model/Data/RecruitSoliderData.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Model/Data/BattleTeamData.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Model/Data/BattleData.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Model/BattleModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Model/DataMgr.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Config/Config.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Model/Data/SaveData.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Model/FightModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Model/PlayerDataModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Model/SettingModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Model/SoliderListModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Model/TankListModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Model/TeamModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Model/SaveModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/UI/RecruitSoliderInfoPanel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/UI/RecruitSoliderInfoView.lua" />
+        <option value="$PROJECT_DIR$/src/Common/define.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/Model/PlayerDataModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/Model/Data/SaveData.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/Model/SettingModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/Model/TeamModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/Model/SoliderListModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/Model/Data/RecruitSoliderData.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/Model/TankListModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/Model/Data/TankInfoData.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Battle/Model/Data/Tank/PlayerSolider.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Battle/Model/Data/Tank/PlayerFightTank.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Battle/Model/Data/Tank/NPCSolider.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Battle/Model/Data/Tank/NPCFightTank.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Welcome/Logic/WelcomeManager.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Config/RegistModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/GameState/IGameState.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/GameState/LoginState.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/GameState/GameConfigState.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/GameState/LoadingState.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/GameState/FightState.lua" />
+        <option value="$PROJECT_DIR$/src/Game/GameState/GameConfigState.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Config/GameStateConfig.lua" />
+        <option value="$PROJECT_DIR$/src/Game/GameState/GameDeployState.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Lanucher/GameStarter.lua" />
+        <option value="$PROJECT_DIR$/src/Framework/Scene/SceneManager.lua" />
+        <option value="$PROJECT_DIR$/src/Game/GameState/Enum/GameStateType.lua" />
+        <option value="$PROJECT_DIR$/src/Game/GameState/IdleState.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Battle/Logic/Commander/ManualCommander.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/Model/SaveModel.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Game.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/Model/DataMgr.lua" />
+        <option value="$PROJECT_DIR$/src/Game/Main/Model/BattleModel.lua" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-78" />
+    <option name="y" value="412" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Accessibility</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization &gt; Bidirectional Text</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Lint</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>FlexUnit inspections</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>GPathGroovy</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Initialization issuesJava</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JPA issues</id>
+          </State>
+          <State>
+            <id>JUnit issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 8Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Modularization issuesJava</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>RESTful Web Service</id>
+          </State>
+          <State>
+            <id>Redundant constructsKotlin</id>
+          </State>
+          <State>
+            <id>Reflective access issuesJava</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring SecuritySpring</id>
+          </State>
+          <State>
+            <id>Spring Web FlowSpring</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>UI Form Problems</id>
+          </State>
+          <State>
+            <id>Velocity inspections</id>
+          </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+          <State>
+            <id>toString() issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cjson" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="Battle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="Battle" type="462c0819:PsiDirectoryNode" />
+              <item name="Logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="Battle" type="462c0819:PsiDirectoryNode" />
+              <item name="Logic" type="462c0819:PsiDirectoryNode" />
+              <item name="Commander" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="GameState" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="GameState" type="462c0819:PsiDirectoryNode" />
+              <item name="Enum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="GameState" type="462c0819:PsiDirectoryNode" />
+              <item name="Interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lua" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lua" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="main&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Main.lua&#10;man&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Battle/Logic/Commander/ManualCommander.lua&#10;manu&#9;null&#9;null&#10;reg&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Config/RegistModel.lua&#10;we&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Welcome/Logic/WelcomeManager.lua&#10;npc&#9;null&#9;null&#10;npcs&#9;null&#9;null&#10;PlayerFi&#9;null&#9;null&#10;players&#9;null&#9;null&#10;defin&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Common/define.lua&#10;PlayerDataModel&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/PlayerDataModel.lua&#10;sett&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/SettingModel.lua&#10;TankListModel&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/TankListModel.lua&#10;welcom\&#9;null&#9;null&#10;infov&#9;null&#9;null&#10;gameto&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Tools/GameTools.lua&#10;tankl&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/TankListModel.lua&#10;pla&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/PlayerDataModel.lua&#10;class&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Framework/Util/Extend/classext.lua&#10;jsonda&#9;null&#9;null&#10;Datam&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/DataMgr.lua&#10;UIViewContainer&#9;null&#9;null&#10;tankLis&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/TankListModel.lua&#10;data&#9;null&#9;null&#10;tanklis&#9;null&#9;null&#10;tank&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/TankListModel.lua&#10;sav&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/SaveModel.lua&#10;SoliderListModel&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/SoliderListModel.lua&#10;Stack&#9;null&#9;null&#10;fs&#9;null&#9;null&#10;RecruitSoliderData&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/Data/RecruitSoliderData.lua&#10;js&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/JsonTool/JsonDataMgr.lua&#10;Ba&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/BattleModel.lua&#10;dat&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/DataMgr.lua&#10;BattleMode&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/BattleModel.lua&#10;SaveBattleData&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/Data/SaveBattleData.lua&#10;tan&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/TankListModel.lua&#10;Game&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Game.lua&#10;Data&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/DataMgr.lua&#10;datamg&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/JsonTool/JsonDataMgr.lua&#10;WelcomeManager&#9;null&#9;null&#10;batt&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/BattleModel.lua&#10;ba&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/BattleModel.lua&#10;RecruitEnsureWin&#9;null&#9;null&#10;sol&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Model/SoliderListModel.lua&#10;json&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/JsonTool/JsonDataMgr.lua&#10;TankUnit&#9;null&#9;null&#10;JsonDataLoader&#9;FILE&#9;file://D:/CodeDev/IronKnightTank/Program/Tank/Assets/GameResource/Lua/src/Game/Lanucher/JsonDataLoader.lua&#10;NPCFightTank&#9;null&#9;null&#10;NPCSolider&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="AIDL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CodeDev\IronKnightTank\Program\Tank\Assets\GameResource\Lua\src\Game\GameState\Enum" />
+      <recent name="D:\CodeDev\IronKnightTank\Program\Tank\Assets\GameResource\Lua\src\Game" />
+      <recent name="D:\CodeDev\IronKnightTank\Program\Tank\Assets\GameResource\Lua\src\Game\Main\Model" />
+      <recent name="D:\CodeDev\IronKnightTank\Program\Tank\Assets\GameResource\Lua\src\Game\GameState\Interface" />
+      <recent name="D:\CodeDev\IronKnightTank\Program\Tank\Assets\GameResource\Lua\src\Game\Main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\JCY\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16eac05a-9e4e-4985-950e-1c83ea74aae7" name="Default" comment="" />
+      <created>1539064916196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539064916196</updated>
+      <workItem from="1539064919847" duration="6266000" />
+      <workItem from="1539071215206" duration="142000" />
+      <workItem from="1539071378265" duration="33598000" />
+      <workItem from="1539222136929" duration="10124000" />
+      <workItem from="1539236619710" duration="15068000" />
+      <workItem from="1539307595883" duration="183000" />
+      <workItem from="1539307835647" duration="1651000" />
+      <workItem from="1539309510945" duration="240000" />
+      <workItem from="1539309769676" duration="6860000" />
+      <workItem from="1539316677777" duration="168000" />
+      <workItem from="1539316864832" duration="644000" />
+      <workItem from="1539320868920" duration="286000" />
+      <workItem from="1539322296716" duration="202000" />
+      <workItem from="1539322516549" duration="15512000" />
+      <workItem from="1539338054936" duration="36183000" />
+      <workItem from="1539494361241" duration="5751000" />
+      <workItem from="1539505391827" duration="3499000" />
+      <workItem from="1539509024921" duration="5797000" />
+      <workItem from="1539566725381" duration="13220000" />
+      <workItem from="1539587126207" duration="15584000" />
+      <workItem from="1539605679498" duration="15707000" />
+      <workItem from="1539654996744" duration="82125000" />
+      <workItem from="1539774118572" duration="33510000" />
+      <workItem from="1539849589081" duration="24752000" />
+      <workItem from="1539878646373" duration="6276000" />
+      <workItem from="1539913321930" duration="19123000" />
+      <workItem from="1539944371395" duration="2535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="355006000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="LuaCheck" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1671875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997879" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="34" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Common/define.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/Data/SaveData.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/TeamModel.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/SoliderListModel.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/Data/RecruitSoliderData.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="45" lean-forward="false" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/Data/RecruitTankData.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/TankListModel.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/Data/TankInfoData.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Battle/Model/Data/Tank/PlayerSolider.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="54" lean-forward="true" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Battle/Model/Data/Tank/PlayerFightTank.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="93" lean-forward="true" selection-start-line="21" selection-start-column="93" selection-end-line="21" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Battle/Model/Data/Tank/NPCFightTank.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Welcome/Logic/WelcomeManager.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Battle/Model/Data/Tank/NPCSolider.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/FightModel.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/PlayerDataModel.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-957">
+          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Battle/Logic/Viewer/PlaneViewer.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-557">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/GameState/LoginState.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/GameState/LoadingState.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Config/GameConfig.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Config/DefultSaveConfig.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Config/RecruitConfig.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Config/PanelConfig.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Config/SceneConfig.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Config/ScriptConfig.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Config/ViewConfig.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Config/RegistModel.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Battle/Interface/IState.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Battle/Logic/State/DefaultState.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Battle/Enum/EHitTankPos.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Battle/Enum/EHitRes.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Battle/Enum/EMoveAndCombatState.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Battle/Enum/EManualState.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/EmmyLua/lib/EmmyLua-1.2.3.jar!/std/global.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="294" column="9" lean-forward="false" selection-start-line="294" selection-start-column="9" selection-end-line="294" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Lanucher/GameStarter.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Util/Extend/coroutineext.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="84" column="19" lean-forward="false" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/GameState/GameDeployState.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Framework/Scene/SceneManager.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/GameState/Enum/GameStateType.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/GameState/Interface/IGameState.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/GameState/FightState.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/GameState/IdleState.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/FSM/FSM.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1217">
+          <caret line="50" column="31" lean-forward="true" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Battle/Logic/Commander/ManualCommander.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Game.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="55" column="0" lean-forward="true" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/DataMgr.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3380">
+          <caret line="218" column="0" lean-forward="false" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/SettingModel.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/SaveModel.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/Data/BattleData.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/Data/BattleCfg.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game/Main/Model/BattleModel.lua">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="135" column="19" lean-forward="true" selection-start-line="135" selection-start-column="19" selection-end-line="135" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

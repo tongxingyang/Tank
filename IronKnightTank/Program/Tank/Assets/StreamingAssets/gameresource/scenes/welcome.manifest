@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 216241872
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 458449e3cc3b9f11fa8885d21c4a1c4b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 1
+ClassTypes: []
+Assets:
+- Assets/GameResource/Scenes/Welcome.unity
+Dependencies: []

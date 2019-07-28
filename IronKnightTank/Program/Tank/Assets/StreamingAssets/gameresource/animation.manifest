@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4246598732
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8838b31d9fd0dab31e1656904dce1c90
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 1
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Animation/BlockHight.anim
+- Assets/GameResource/Animation/tips.anim
+- Assets/GameResource/Animation/Round_Start.anim
+- Assets/GameResource/Animation/tankMarkArrow.anim
+Dependencies: []

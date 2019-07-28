@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4267417219
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39b2c309e2bec1fe2a898a8344a8b70a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 1
+ClassTypes: []
+Assets:
+- Assets/GameResource/ArtResource/Sence/Test_Textrue 1.unity
+- Assets/GameResource/ArtResource/Sence/Test_Textrue.unity
+- Assets/GameResource/ArtResource/Sence/Test 1.unity
+- Assets/GameResource/ArtResource/Sence/Test.unity
+Dependencies:
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/material/effect_7e93fcc8104c9b53131de462b2e5f75c
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/prefab/battle/ui_cb90a5948764cae4369c672f1f5dd092
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/prefab/map_6bbfb91ce47286b2825bfd333668ded3
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/material/tank_e18e0480bbfd16cc4be247f93fe01d86
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/animation_8838b31d9fd0dab31e1656904dce1c90
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/prefab/tank_fdcf9357a2028098367f3d2ff84570df

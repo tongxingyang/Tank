@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 1795332568
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bdf50cd27c41714318b598ac4f414712
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 1
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Data/EnemyUnit.json
+- Assets/GameResource/Data/Language.json
+- Assets/GameResource/Data/InitiativeSkill.json
+- Assets/GameResource/Data/ProfilePicture.json
+- Assets/GameResource/Data/UnitAttributesAdd.json
+- Assets/GameResource/Data/TerrainEleement.json
+- Assets/GameResource/Data/Unit.json
+- Assets/GameResource/Data/Level.json
+- Assets/GameResource/Data/UnitSkill.json
+- Assets/GameResource/Data/TankUnit.json
+- Assets/GameResource/Data/Battle.json
+Dependencies: []

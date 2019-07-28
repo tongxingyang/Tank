@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 959825439
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a1e177cc44b4748213dd792e53f5b96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Sprite/Battle/FrontSight.png
+- Assets/GameResource/Sprite/Battle/Ingame_Map_Attack_Range_Grid_Pic.png
+- Assets/GameResource/Sprite/Battle/sea.png
+- Assets/GameResource/Sprite/Battle/mountainous.png
+- Assets/GameResource/Sprite/Battle/meadow.png
+- Assets/GameResource/Sprite/Battle/Ingame_Map_Move_Grid_Pic_2.png
+- Assets/GameResource/Sprite/Battle/Ingame_Direction_Icon.png
+- Assets/GameResource/Sprite/Battle/sand.png
+- Assets/GameResource/Sprite/Battle/bunker.png
+- Assets/GameResource/Sprite/Battle/forest.png
+- Assets/GameResource/Sprite/Battle/Main_Battle_Map_Grid_Pic_1.png
+- Assets/GameResource/Sprite/Battle/Ingame_Map_Move_Grid_Pic_1.png
+- Assets/GameResource/Sprite/Battle/Ingame_Map_Attack_Distance_Grid_Pic.png
+- Assets/GameResource/Sprite/Battle/Ingame__Attack_Target_Icon.png
+- Assets/GameResource/Sprite/Battle/Main_Battle_Map_Grid_Pic.png
+- Assets/GameResource/Sprite/Battle/building.png
+Dependencies: []

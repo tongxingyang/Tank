@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 676dc79829cc66a4fb99e4b3574a74f1
+timeCreated: 1534842523
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _MainMask: {fileID: 2800000, guid: 53c9ad8af3994e94bb8acbd4d417da23, type: 3}
+  userData: 
+  assetBundleName: gameresource/shader
+  assetBundleVariant: 

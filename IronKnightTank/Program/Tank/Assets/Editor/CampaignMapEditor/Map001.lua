@@ -1,0 +1,1 @@
+return {MapBgTexturePath = "ArtResource/示意图/胜利条件720-1280.png", NodeList = {{ID = 1, TexturePath = "Sprite/Icon/Unit_Head/Carius_Head.png", PosX = 374, PosY = 370, PreNodeIds = {2}}, {ID = 2, TexturePath = "Sprite/Battle/building.png", PosX = 154, PosY = 129, PreNodeIds = {1}}, {ID = 2, TexturePath = "Sprite/Battle/building.png", PosX = 635, PosY = 273, PreNodeIds = {}}}}

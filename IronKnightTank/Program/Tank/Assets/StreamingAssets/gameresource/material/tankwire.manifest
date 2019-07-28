@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 658090893
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 150d1e59f5518f3845a7dbc844efc753
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 1
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Material/TankWire/Tank_Tiger_1_Frame_1.mat
+- Assets/GameResource/Material/TankWire/Tank_Tiger_1_Frame_2.mat
+- Assets/GameResource/Material/TankWire/Tank_T34_85_Frame_1.mat
+- Assets/GameResource/Material/TankWire/Tank_T34_85_Frame_2.mat
+Dependencies:
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/shader_6483f5d4780c9c1b1f548a26a69c3f9e

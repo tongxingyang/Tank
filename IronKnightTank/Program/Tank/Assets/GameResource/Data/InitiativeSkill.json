@@ -1,0 +1,8 @@
+[{"InitiativeSkill_ID":1001,"Name":9100,"Skill_Type":1,"SkillEffect_Type":1,"Skill_Aims":1,"Skill_Description":103500,"Skill_Icon":"InitiativeSkill_1001","Skill_2DEffect":"","Skill_Script":"CommanderSkill_1001"}
+,{"InitiativeSkill_ID":1002,"Name":9101,"Skill_Type":1,"SkillEffect_Type":1,"Skill_Aims":1,"Skill_Description":103501,"Skill_Icon":"InitiativeSkill_1002","Skill_2DEffect":"","Skill_Script":"CommanderSkill_1002"}
+,{"InitiativeSkill_ID":1003,"Name":9102,"Skill_Type":1,"SkillEffect_Type":2,"Skill_Aims":3,"Skill_Description":103502,"Skill_Icon":"InitiativeSkill_1003","Skill_2DEffect":"","Skill_Script":"CommanderSkill_1003"}
+,{"InitiativeSkill_ID":1004,"Name":9103,"Skill_Type":1,"SkillEffect_Type":3,"Skill_Aims":2,"Skill_Description":103503,"Skill_Icon":"InitiativeSkill_1004","Skill_2DEffect":"","Skill_Script":"CommanderSkill_1004"}
+,{"InitiativeSkill_ID":1005,"Name":9104,"Skill_Type":1,"SkillEffect_Type":4,"Skill_Aims":3,"Skill_Description":103504,"Skill_Icon":"InitiativeSkill_1005","Skill_2DEffect":"","Skill_Script":"CommanderSkill_1005"}
+,{"InitiativeSkill_ID":1006,"Name":9105,"Skill_Type":1,"SkillEffect_Type":5,"Skill_Aims":3,"Skill_Description":103505,"Skill_Icon":"InitiativeSkill_1006","Skill_2DEffect":"","Skill_Script":"CommanderSkill_1006"}
+,{"InitiativeSkill_ID":1007,"Name":9106,"Skill_Type":1,"SkillEffect_Type":6,"Skill_Aims":3,"Skill_Description":103506,"Skill_Icon":"InitiativeSkill_1007","Skill_2DEffect":"","Skill_Script":"CommanderSkill_1007"}
+,{"InitiativeSkill_ID":1008,"Name":9107,"Skill_Type":1,"SkillEffect_Type":1,"Skill_Aims":1,"Skill_Description":103507,"Skill_Icon":"InitiativeSkill_1008","Skill_2DEffect":"","Skill_Script":"CommanderSkill_1008"}]

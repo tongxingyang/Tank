@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1624555851
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6bbfb91ce47286b2825bfd333668ded3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f6662246a727c10590caaadd82e6bf0a
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Prefab/Map/Map1003.prefab
+- Assets/GameResource/Prefab/Map/sand.prefab
+- Assets/GameResource/Prefab/Map/Map1002.prefab
+- Assets/GameResource/Prefab/Map/Map1001.prefab
+Dependencies: []

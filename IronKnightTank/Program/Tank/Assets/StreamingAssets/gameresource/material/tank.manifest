@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 893006859
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e18e0480bbfd16cc4be247f93fe01d86
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 1
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Material/Tank/Tank_Tiger_Materials_1.mat
+- Assets/GameResource/Material/Tank/Tank_T34-85_Materials_1.mat
+Dependencies: []

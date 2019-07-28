@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 913341661
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 541bfdacb428ad9561937a64c687cf46
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 1
+ClassTypes: []
+Assets:
+- Assets/GameResource/Scenes/Battle.unity
+Dependencies: []

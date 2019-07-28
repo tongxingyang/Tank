@@ -1,0 +1,8 @@
+[{"EnemyUnit_ID":1,"Name":7005,"Level":1,"Power":2,"Hit":75,"Skill_ID":2001,"Skill_Grade":1,"Tank_ID":2202,"Enemy_Icon":"Nenko_Head.png"}
+,{"EnemyUnit_ID":2,"Name":7006,"Level":1,"Power":2,"Hit":75,"Skill_ID":2001,"Skill_Grade":1,"Tank_ID":2202,"Enemy_Icon":"Nenko_Head.png"}
+,{"EnemyUnit_ID":3,"Name":7007,"Level":1,"Power":2,"Hit":75,"Skill_ID":2002,"Skill_Grade":1,"Tank_ID":2202,"Enemy_Icon":"Nenko_Head.png"}
+,{"EnemyUnit_ID":4,"Name":7008,"Level":1,"Power":2,"Hit":75,"Skill_ID":2002,"Skill_Grade":1,"Tank_ID":2202,"Enemy_Icon":"GeneralCaptain_Head.png"}
+,{"EnemyUnit_ID":5,"Name":7001,"Level":1,"Power":2,"Hit":75,"Skill_ID":2002,"Skill_Grade":1,"Tank_ID":2202,"Enemy_Icon":"IntermediateCaptain_Head.png"}
+,{"EnemyUnit_ID":10011,"Name":7008,"Level":3,"Power":2,"Hit":65,"Skill_ID":0,"Skill_Grade":1,"Tank_ID":2401,"Enemy_Icon":"IntermediateCaptain_Head.png"}
+,{"EnemyUnit_ID":10012,"Name":7001,"Level":3,"Power":2,"Hit":75,"Skill_ID":2001,"Skill_Grade":1,"Tank_ID":3401,"Enemy_Icon":"GeneralCaptain_Head.png"}
+,{"EnemyUnit_ID":10013,"Name":7008,"Level":3,"Power":2,"Hit":65,"Skill_ID":0,"Skill_Grade":1,"Tank_ID":1401,"Enemy_Icon":"IntermediateCaptain_Head.png"}]

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 3988218987
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7e93fcc8104c9b53131de462b2e5f75c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 1
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Material/Effect/Fire_FX/Get_Shot_Spark_2.mat
+- Assets/GameResource/Material/Effect/Smoke_FX/Walk_Lvdai_FX.mat
+- Assets/GameResource/Material/Effect/Smoke_FX/Tiger_Tank_Boom_Smoke_Tail_1.mat
+- Assets/GameResource/Material/Effect/Fire_FX/Get_Shot_Spark_1.mat
+- Assets/GameResource/Material/Effect/Smoke_FX/Open_Fire_Smoke_1.mat
+- Assets/GameResource/Material/Effect/Fire_FX/Open_Fire_Flash_2.mat
+- Assets/GameResource/Material/Effect/Fire_FX/Tiger_Tank_Boom_Fire_1.mat
+- Assets/GameResource/Material/Effect/Fire_FX/Tiger_Tank_Boom_Fire_3.mat
+- Assets/GameResource/Material/Effect/Smoke_FX/Walk_FX.mat
+- Assets/GameResource/Material/Effect/Fire_FX/Tiger_Tank_Boom_Fire_2.mat
+- Assets/GameResource/Material/Effect/Fire_FX/Get_Shot_Flash_1.mat
+- Assets/GameResource/Material/Effect/Smoke_FX/Tiger_Tank_Boom_Smoke.mat
+- Assets/GameResource/Material/Effect/Smoke_FX/Get_Shot_Smoke_1.mat
+- Assets/GameResource/Material/Effect/Fire_FX/Tiger_Tank_Boom_Flash.mat
+- Assets/GameResource/Material/Effect/Smoke_FX/Walk_Smoke_FX.mat
+Dependencies:
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/sprite/fow_93c122c7ec8fc685584fa3331e6b5767
+- D:/UnityPro/CompanyPro/Tank/IronKnightTank/Program/Tank/Assets/StreamingAssets/gameresource/shader_6483f5d4780c9c1b1f548a26a69c3f9e

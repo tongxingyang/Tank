@@ -1,0 +1,16 @@
+{
+    "ID": 0,
+    "name": "",
+    "CreateTime": "",
+    "RectentQuitTime": "",
+    "GameTime": "",
+    "RectentGameTime": "",
+    "Setting": {
+        "MusicPriority": 0,
+        "MusicQuality": 0,
+        "CurLanguage": 0,
+        "RenderQuality": 0
+    },
+    "AchievementList": [],
+    "SaveList": []
+}

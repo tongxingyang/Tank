@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2699208305
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93c122c7ec8fc685584fa3331e6b5767
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 460b4f5d62b6facbccf7c01637df8f00
+HashAppended: 1
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/GameResource/Sprite/FOW/10.png
+- Assets/GameResource/Sprite/FOW/6.png
+- Assets/GameResource/Sprite/FOW/13.png
+- Assets/GameResource/Sprite/FOW/11.png
+- Assets/GameResource/Sprite/FOW/2.png
+- Assets/GameResource/Sprite/FOW/14.png
+- Assets/GameResource/Sprite/FOW/4.png
+- Assets/GameResource/Sprite/FOW/15.png
+- Assets/GameResource/Sprite/FOW/12.png
+- Assets/GameResource/Sprite/FOW/5.png
+- Assets/GameResource/Sprite/FOW/8.png
+- Assets/GameResource/Sprite/FOW/9.png
+- Assets/GameResource/Sprite/FOW/7.png
+- Assets/GameResource/Sprite/FOW/3.png
+- Assets/GameResource/Sprite/FOW/1.png
+- Assets/GameResource/Sprite/FOW/0.png
+Dependencies: []
